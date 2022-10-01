@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh Bhandari from Nashik,Maharashtra(India)
 - 👀 I’m interested in robotics, CV, RL and DL
-- 🌱 I’m currently pursuing B.Tech in CSE at BITS Pilani,Pilani Campus.
+- 🌱 Sophomore pursuing B.Tech in CSE at BITS Pilani,Pilani Campus.
 - 📫 How to reach me -mail bhandarisourabhrahul@gmail.com / f20212412@pilani.bits-pilani.ac.in
 
 
