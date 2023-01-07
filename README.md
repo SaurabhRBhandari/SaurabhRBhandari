@@ -7,7 +7,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SaurabhRBhandari)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:f20212412@pilani.bits-pilani.ac.in)
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/SiRBruce.svg)](https://codeforces.com/profile/sirbruce)
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 <!-- User Stats -->
 <p align="center">
   <img align="center" src="https://img.shields.io/github/followers/SaurabhRBhandari?style=social" />  
