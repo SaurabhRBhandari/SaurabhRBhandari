@@ -25,17 +25,13 @@
 
 [![Atcoder](https://badges.joonhyung.xyz/atcoder/SiRBruce.svg)](https://atcoder.jp/users/SiRBruce)
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/SiRBruce.svg)](https://codeforces.com/profile/sirbruce)
+
 <!-- User Stats -->
 <p align="center">
   <img align="center" src="https://img.shields.io/github/followers/SaurabhRBhandari?style=social" />  
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SaurabhRBhandari.visitor-badge" />
 </p>
 
-<!-- Coding Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaurabhRBhandari&show_icons=true&theme=dark" /> <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhRBhandari&theme=dark" /> <br><br>
-</p>
 
 <!---
 SaurabhRBhandari/SaurabhRBhandari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
