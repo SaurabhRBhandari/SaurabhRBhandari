@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Bhandari</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhrbhandari&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhrbhandari" /> </p>
-
 
 - 📫 How to reach me **f20212412@pilani.bits-pilani.ac.in**
 
