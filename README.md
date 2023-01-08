@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurabh Bhandari</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
+[![Atcoder](https://badges.joonhyung.xyz/atcoder/SiRBruce.svg)](https://atcoder.jp/users/SiRBruce)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/SiRBruce.svg)](https://codeforces.com/profile/sirbruce)
+
 - 📫 How to reach me **f20212412@pilani.bits-pilani.ac.in**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,8 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhrbhandari&" alt="saurabhrbhandari" /></p>
 
-[![Atcoder](https://badges.joonhyung.xyz/atcoder/SiRBruce.svg)](https://atcoder.jp/users/SiRBruce)
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/SiRBruce.svg)](https://codeforces.com/profile/sirbruce)
 
 <!-- User Stats -->
 <p align="center">
