@@ -3,6 +3,7 @@
 
 [![Atcoder](https://badges.joonhyung.xyz/atcoder/SiRBruce.svg)](https://atcoder.jp/users/SiRBruce)
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/SiRBruce.svg)](https://codeforces.com/profile/sirbruce)
+[![Codechef//cp-logo.vercel.app/codechef/saurabh67_nsk)](https://www.codechef.com/users/saurabh67_nsk)
 
 - 📫 How to reach me **f20212412@pilani.bits-pilani.ac.in**
 
